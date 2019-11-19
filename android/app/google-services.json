@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491161233822",
+    "firebase_url": "https://healthy-coach-62ef8.firebaseio.com",
+    "project_id": "healthy-coach-62ef8",
+    "storage_bucket": "healthy-coach-62ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491161233822:android:ad51a2006af40bf9524e8f",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491161233822-mqevn3ed5hk7abv70bs5lasuvnue7g8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQH1-788zlmElpi4G1YPkvV_oLx0LxFvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491161233822-mqevn3ed5hk7abv70bs5lasuvnue7g8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
